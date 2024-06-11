@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jusikdiary</string>
+        <string-array name="spinner_items">
+            <item>흥미</item>
+            <item>혼란</item>
+            <item>불안</item>
+            <item>성취</item>
+            <item>호기심</item>
+            <item>스트레스</item>
+            <item>자신감</item>
+        </string-array>
+</resources>
